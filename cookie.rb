@@ -15,4 +15,8 @@ class Cookie
 
   end
 
+  def hello
+    sugar*94058
+  end
+
 end
